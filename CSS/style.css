@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+* {margin: 0; padding: 0}
+body {background-image: url("../IMG/1.jpg"); background-repeat: no-repeat; background-size: cover; background-attachment: fixed; text-align: center; color:cornflowerblue; font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";}
+
+/*hola como estas*/
+
+.wrapper {background-color: rgba(168,38,40,.60); width:1000px; margin-left: auto; margin-right: auto;} 
+
+footer{font-size: 10px; background-color: brown; height: 50px; line-height:50px;} 
+
+.menu{background: rgba(2,105,110,.60); height: 220px;}
+
+ul{lif-style-type:none; }
+
+li{width: 249px; float: left;border-left:1px dotted blue; line-height:30px;}
+
+#izquierdo{border-left:none}
+
+h1{font-size:60px; line-height:180px;}
+
+.fondo{background-color: black;width:800px;margin-right:auto;margin-left:auto;padding:50px;margin:50px;}
+.fondo p{text-align: justify;}
+
+h2{color:darkgoldenrod;border-top:5px solid darkgoldenrod;border-bottom:5px solid darkgoldenrod;width:333px;margin-left:auto; margin-right: auto;line-height:50px;}
+
+h3{color:burlywood; border-top: 5px solid burlywood;}
+
+.polaroid{width:317px; height:420px; background-color: white;color:black;box-shadow:10px 10px 20px black;float: left;margin: 8px;}
+h4
+
+h4{color:black;}
+
+/*valores de box shadow: x, y, difuminado y color*/
+
+.clear{clear:both;}
+
+a{text-decoration: none; color:darkorange}
+
+a:hover{color:magenta} 
+
+
